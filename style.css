@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background: darkcyan;
+    place-items: center;
+    display: flex;
+}
+
+.counter-container
+{
+    margin-left: 240px;
+    font-size: 25px;
+    padding-top: 266px;
+}
+
+.counter
+{
+    color: yellow;
+    font-size: 60px;
+}
